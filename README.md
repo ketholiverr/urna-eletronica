@@ -60,3 +60,6 @@ Mas vamos para o que importa: O Teste.
 8. Plus III*: outras tecnologias utilizadas (Dapper, Bootstrap ...).
 
 \*: _o importante são os outros pontos, mas esse poderá ser escolhido como ponto de desempate_
+
+## projeto com parceria a escola prof luiza de teodoro vieira
+# professor aloisio s sousa - coordenador do curso
